@@ -1,1 +1,1 @@
-# Woowahan Side Project Next
+# Project Template
